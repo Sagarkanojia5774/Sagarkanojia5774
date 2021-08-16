@@ -10,4 +10,4 @@ I'm Sagar Kanojia, Experienced Founder with a demonstrated history of working in
 
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagarkanojia5774&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarkanojia5774&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarkanojia5774&theme=dark&show_icons=true)](https://github.com/Sagarkanojia5774/github-readme-stats)
